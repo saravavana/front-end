@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Elements</title>
+</head>
+<body>
+
+    <h1>DOM Create Elements</h1>
+
+    <div id="container"></div>
+
+    <script>
+
+        const paragraph = document.createElement("p");
+
+        paragraph.textContent = "This paragraph was created using JavaScript.";
+
+        const container = document.getElementById("container");
+
+        container.appendChild(paragraph);
+
+        const button = document.createElement("button");
+
+        button.textContent = "Click Me";
+
+        container.appendChild(button);
+
+        const heading = document.createElement("h2");
+        heading.textContent = "New Heading";
+        container.appendChild(heading);
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Session Storage</title>
+</head>
+<body>
+
+    <h1>Session Storage</h1>
+
+    <input type="text" id="nameInput" placeholder="Enter your name">
+
+    <button id="saveBtn">Save</button>
+    <button id="getBtn">Get</button>
+    <button id="removeBtn">Remove</button>
+
+    <p id="output"></p>
+    <script>
+
+        const nameInput = document.getElementById("nameInput");
+        const output = document.getElementById("output");
+
+        document.getElementById("saveBtn").addEventListener("click", function () {
+
+            sessionStorage.setItem("name", nameInput.value);
+
+            output.textContent = "Name saved!";
+        });
+
+        document.getElementById("getBtn").addEventListener("click", function () {
+
+            const name = sessionStorage.getItem("name");
+
+            output.textContent = name;
+        });
+
+        document.getElementById("removeBtn").addEventListener("click", function () {
+
+            sessionStorage.removeItem("name");
+
+            output.textContent = "Name removed!";
+        });
+
+    </script>
+
+</body>
+</html>

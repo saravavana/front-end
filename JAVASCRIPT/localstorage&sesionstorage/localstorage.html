@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Local Storage</title>
+</head>
+<body>
+
+    <h1>Local Storage</h1>
+
+    <button id="saveBtn">Save Name</button>
+    <button id="getBtn">Get Name</button>
+    <button id="removeBtn">Remove Name</button>
+
+    <p id="output"></p>
+
+    <script>
+
+        const output = document.getElementById("output");
+
+        document.getElementById("saveBtn").addEventListener("click", function () {
+
+            localStorage.setItem("name", "Saran");
+
+            output.textContent = "Name saved!";
+        });
+
+        document.getElementById("getBtn").addEventListener("click", function () {
+
+            const name = localStorage.getItem("name");
+
+            output.textContent = name;
+        });
+
+        document.getElementById("removeBtn").addEventListener("click", function () {
+
+            localStorage.removeItem("name");
+
+            output.textContent = "Name removed!";
+        });
+
+    </script>
+
+</body>
+</html>

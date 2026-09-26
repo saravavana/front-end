@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Pseudo Classes</title>
+</head>
+
+<body>
+
+    <h2>CSS Pseudo Classes</h2>
+
+    <button class="btn">Hover Me</button>
+
+    <br><br>
+
+    <input type="text" placeholder="Click and type">
+
+    <h3>List</h3>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Node.js</li>
+    </ul>
+
+    <style>
+        
+        /* :hover */
+        .btn:hover {
+            background-color: black;
+            color: white;
+        }
+
+        /* :active */
+        .btn:active {
+            transform: scale(0.9);
+        }
+
+        /* :focus */
+        input:focus {
+            border: 2px solid blue;
+            outline: none;
+        }
+
+        /* :first-child */
+        li:first-child {
+            color: red;
+        }
+
+        /* :last-child */
+        li:last-child {
+            color: green;
+        }
+
+        /* :nth-child() */
+        li:nth-child(3) {
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</body>
+</html>

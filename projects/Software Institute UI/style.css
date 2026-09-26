@@ -18,9 +18,6 @@ body{
     margin:auto;
     padding:80px 20px;
 }
-
-
-
 .blue-line{
     width:130px;
     height:4px;
@@ -41,9 +38,6 @@ body{
     background:#0076df;
     margin:15px auto 35px;
 }
-
-
-
 header{
     position:fixed;
     top:0;
@@ -87,6 +81,7 @@ header nav ul{
 
 header nav ul li{
     list-style:none;
+    margin-top: 10px;
 }
 
 header nav ul li a{
@@ -95,6 +90,7 @@ header nav ul li a{
     font-size:18px;
     font-weight:500;
     transition:.3s;
+    
 }
 
 header nav ul li a:hover
@@ -261,7 +257,7 @@ header nav ul li a:hover
     width:80%;
     border-radius:10px;
     box-shadow:10px 10px 5px 10px rgba(0, 0, 0, 0.877);
-    animation:floating 4s ease-in-out 1;
+    animation:floating 4s ease-in-out infinite;
 
 }
 
@@ -375,6 +371,9 @@ header nav ul li a:hover
     font-size:17px;
     line-height:1.7;
 }
+.service-card a{
+    text-decoration: none;
+}
 
 
 
@@ -425,6 +424,33 @@ header nav ul li a:hover
 .review-card.three{
     background:#f3ea8c;
 }
+.review-card.four {
+    background: #f3b6d2;
+}
+
+.review-card.five {
+    background: #a8e6cf;
+}
+
+.review-card.six {
+    background: #c8b6f3;
+}
+
+.review-card.seven {
+    background: #f6c28b;
+}
+
+.review-card.eight {
+    background: #9de3f5;
+}
+
+.review-card.nine {
+    background: #f2b5d4;
+}
+
+.review-card.ten {
+    background: #b9e58c;
+}
 
 
 
@@ -467,11 +493,12 @@ header nav ul li a:hover
     gap:5px;
 }
 .contact{
-    background:#f8f9fc;
+    background:#dfdede;
 
 }
 
 .contact-title{
+    text-transform: uppercase;
     text-align:center;
     margin-bottom:20px;
 }
@@ -562,6 +589,69 @@ header nav ul li a:hover
 
 .social-icons i:hover{
     color:#ffd54f;
+}
+
+
+.reveal {
+    opacity: 0;
+    transform: translateY(72px);
+    animation: reveal 1s ease forwards;
+    animation-timeline: view();
+    animation-range: entry 0 cover 60%;
+}
+
+
+@keyframes reveal {
+    from {
+        opacity: 0;
+        transform: translateY(72px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.revealleft1{
+    opacity: 0;
+transform: translateX(90px);
+ animation: revealleft1 1.5s ease forwards;
+    animation-timeline: view();
+    animation-range: entry 20% cover 60%;
+
+}
+@keyframes revealleft1 {
+    from {
+        opacity: 0;
+        transform: translateX(90px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+
+.revealright1{
+    opacity: 0;
+transform: translateX(-90px);
+ animation: revealright1 1.5s ease forwards;
+    animation-timeline: view();
+    animation-range: entry 20% cover 60%;
+
+}
+@keyframes revealright1 {
+    from {
+        opacity: 0;
+        transform: translateX(-90px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
 }
 
 

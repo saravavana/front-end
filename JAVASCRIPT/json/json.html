@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript JSON</title>
+</head>
+<body>
+
+    <h1>JSON</h1>
+
+    <script>
+
+
+        const user = {
+            name: "Saran",
+            age: 22,
+            course: "MERN"
+        };
+
+        console.log(user);
+
+
+        const jsonData = JSON.stringify(user);
+
+        console.log(jsonData);
+        console.log(typeof jsonData);
+
+        const convertedUser = JSON.parse(jsonData);
+
+        console.log(convertedUser);
+        console.log(convertedUser.name);
+        console.log(convertedUser.course);
+
+    </script>
+
+</body>
+</html>

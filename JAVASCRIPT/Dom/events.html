@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Events</title>
+</head>
+<body>
+
+    <h1 id="title">Hello JavaScript</h1>
+
+    <button id="btn">Click Me</button>
+
+    <br><br>
+
+    <input type="text" id="input" placeholder="Type something">
+
+    <p id="output"></p>
+
+
+    <script>
+
+        const button = document.getElementById("btn");
+        const title = document.getElementById("title");
+
+        button.addEventListener("click", function () {
+            title.textContent = "Button Clicked!";
+        });
+
+        const input = document.getElementById("input");
+        const output = document.getElementById("output");
+
+        input.addEventListener("input", function () {
+            output.textContent = input.value;
+        });
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background: #4ECDC4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #556270, #4ECDC4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #dde0e4, #4ECDC4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#music-player {
+    width: 300px;
+    height: 450px;
+    background: #E44D26;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F16529, #E44D26);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F16529, #E44D26); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 0px rgb(121, 121, 121);
+}
+
+#song-image {
+    height: 230px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 15px 25px  rgba(0, 0, 0,.4);
+}
+
+#song-name {
+    margin-top: 15px;
+    font-size: 2em;
+    color: aliceblue;
+}
+#song-artist {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: aliceblue;
+}
+
+#music-buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#music-buttons i {
+    padding: 10px;
+    color: rgb(248, 243, 243); 
+}
+
+#slider-song {
+     
+    width: 250px;
+    cursor: pointer;
+    
+    
+}
+#slider-song::-webkit-slider-runnable-track{
+    height:6px;
+    background:#d6d1d1;
+    border-radius:5px;
+}
+#slider-song::-webkit-slider-thumb{
+    
+    margin-top:-6px;
+    cursor:pointer;
+}
+.time{
+    width: 250px;
+    display:flex;
+    justify-content:space-between;
+    margin-top:10px;
+    color:rgb(247, 240, 240);
+    font-size:15px;
+}
+.fa-solid{
+   padding: 20px;
+   margin: 10px;
+   text-align: center;
+   border-radius: 50%;
+   
+   background: transparent;
+   box-shadow: 5px 5px 10px black, -1px -1px 1px white;
+}
+.fa-solid:hover{
+    box-shadow:  inset 5px 5px 10px black, 1px 1px 1px white;
+
+
+    }
+

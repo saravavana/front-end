@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ES6 Concepts</title>
+</head>
+<body>
+
+    <h2>ES6 JavaScript</h2>
+
+    <script>
+        //Destructuring - Object
+
+        const user = {
+            name: "Saran",
+            age: 22,
+            city: "Coimbatore"
+        };
+
+        const { name, age, city } = user;
+
+        console.log(name);
+        console.log(age);
+        console.log(city);
+
+        // Destructuring - Array
+
+        const fruits = ["Apple", "Mango", "Orange"];
+
+        const [first, second, third] = fruits;
+
+        console.log(first);
+        console.log(second);
+        console.log(third);
+
+        // Spread Operator
+
+        const numbers1 = [10, 20, 30];
+
+        const numbers2 = [...numbers1, 40, 50];
+
+        console.log(numbers2);
+
+        // Spread with Objects
+        const person = {
+            name: "Saran",
+            age: 22
+        };
+
+        const updatedPerson = {
+            ...person,
+            city: "Coimbatore"
+        };
+
+        console.log(updatedPerson);
+
+        //  Rest Operator
+        function addNumbers(...numbers) {
+
+            let total = 0;
+
+            numbers.forEach(function(number) {
+                total += number;
+            });
+
+            return total;
+        }
+
+        console.log(addNumbers(10, 20));
+        console.log(addNumbers(10, 20, 30, 40));
+
+
+        const multiply = (a, b) => {
+            return a * b;
+        };
+
+        console.log(multiply(5, 4));
+
+        const square = number => number * number;
+
+        console.log(square(6));
+
+    </script>
+
+</body>
+</html>
