@@ -1,0 +1,64 @@
+.message {
+  max-width: 65%;
+  padding: 14px 18px;
+  border-radius: 18px;
+  background: #1f2937;
+  color: white;
+  align-self: flex-start;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  animation: popup 0.3s ease;
+}
+
+.message.me {
+  background: linear-gradient(135deg, #2563eb, #3b82f6);
+  align-self: flex-end;
+}
+
+.message h4 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: #60a5fa;
+}
+
+.message p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.message small {
+  display: block;
+  text-align: right;
+  margin-top: 8px;
+  font-size: 11px;
+  color: #cbd5e1;
+}
+
+.delete-btn {
+  margin-top: 8px;
+  background: transparent;
+  border: none;
+  color: transparent;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.delete-btn:hover {
+  color: #f87171;
+  transform: scale(1.2);
+}
+
+@keyframes popup{
+
+0%{
+opacity:0;
+transform:translateY(20px);
+}
+
+100%{
+opacity:1;
+transform:translateY(0);
+}
+
+}

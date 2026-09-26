@@ -1,0 +1,1513 @@
+[
+  {
+    "cca3": "IND",
+    "cca2": "IN",
+    "name": {
+      "common": "India"
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "region": "Asia",
+    "population": 1417173173,
+    "latlng": [
+      28.6139,
+      77.209
+    ],
+    "area": 3287590,
+    "languages": {
+      "hin": "Hindi",
+      "eng": "English"
+    },
+    "currencies": {
+      "INR": {
+        "name": "Indian Rupee"
+      }
+    },
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=India"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "themeColor": "#FF9933"
+  },
+  {
+    "cca3": "USA",
+    "cca2": "US",
+    "name": {
+      "common": "United States"
+    },
+    "capital": [
+      "Washington, D.C."
+    ],
+    "region": "Americas",
+    "population": 340110988,
+    "latlng": [
+      38.9072,
+      -77.0369
+    ],
+    "area": 9833517,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "USD": {
+        "name": "United States Dollar"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=United+States"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "themeColor": "#B22234"
+  },
+  {
+    "cca3": "CAN",
+    "cca2": "CA",
+    "name": {
+      "common": "Canada"
+    },
+    "capital": [
+      "Ottawa"
+    ],
+    "region": "Americas",
+    "population": 38781291,
+    "latlng": [
+      45.4215,
+      -75.6972
+    ],
+    "area": 9984670,
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "currencies": {
+      "CAD": {
+        "name": "Canadian Dollar"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Canada"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "themeColor": "#D80621"
+  },
+  {
+    "cca3": "GBR",
+    "cca2": "GB",
+    "name": {
+      "common": "United Kingdom"
+    },
+    "capital": [
+      "London"
+    ],
+    "region": "Europe",
+    "population": 69200000,
+    "latlng": [
+      51.5074,
+      -0.1278
+    ],
+    "area": 243610,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "name": "British Pound"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=United+Kingdom"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "themeColor": "#012169"
+  },
+  {
+    "cca3": "FRA",
+    "cca2": "FR",
+    "name": {
+      "common": "France"
+    },
+    "capital": [
+      "Paris"
+    ],
+    "region": "Europe",
+    "population": 66548530,
+    "latlng": [
+      48.8566,
+      2.3522
+    ],
+    "area": 551695,
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=France"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "themeColor": "#0055A4"
+  },
+  {
+    "cca3": "DEU",
+    "cca2": "DE",
+    "name": {
+      "common": "Germany"
+    },
+    "capital": [
+      "Berlin"
+    ],
+    "region": "Europe",
+    "population": 84358845,
+    "latlng": [
+      52.52,
+      13.405
+    ],
+    "area": 357114,
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Germany"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "themeColor": "#DD0000"
+  },
+  {
+    "cca3": "ITA",
+    "cca2": "IT",
+    "name": {
+      "common": "Italy"
+    },
+    "capital": [
+      "Rome"
+    ],
+    "region": "Europe",
+    "population": 58907162,
+    "latlng": [
+      41.9028,
+      12.4964
+    ],
+    "area": 301340,
+    "languages": {
+      "ita": "Italian"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Italy"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "themeColor": "#009246"
+  },
+  {
+    "cca3": "ESP",
+    "cca2": "ES",
+    "name": {
+      "common": "Spain"
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "region": "Europe",
+    "population": 48373000,
+    "latlng": [
+      40.4168,
+      -3.7038
+    ],
+    "area": 505992,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Spain"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "themeColor": "#AA151B"
+  },
+  {
+    "cca3": "PRT",
+    "cca2": "PT",
+    "name": {
+      "common": "Portugal"
+    },
+    "capital": [
+      "Lisbon"
+    ],
+    "region": "Europe",
+    "population": 10300000,
+    "latlng": [
+      38.7223,
+      -9.1393
+    ],
+    "area": 92090,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Portugal"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "themeColor": "#046A38"
+  },
+  {
+    "cca3": "JPN",
+    "cca2": "JP",
+    "name": {
+      "common": "Japan"
+    },
+    "capital": [
+      "Tokyo"
+    ],
+    "region": "Asia",
+    "population": 123294513,
+    "latlng": [
+      35.6762,
+      139.6503
+    ],
+    "area": 377930,
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "currencies": {
+      "JPY": {
+        "name": "Japanese Yen"
+      }
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Japan"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "themeColor": "#BC002D"
+  },
+  {
+    "cca3": "CHN",
+    "cca2": "CN",
+    "name": {
+      "common": "China"
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "region": "Asia",
+    "population": 1410710000,
+    "latlng": [
+      39.9042,
+      116.4074
+    ],
+    "area": 9706961,
+    "languages": {
+      "zho": "Chinese"
+    },
+    "currencies": {
+      "CNY": {
+        "name": "Chinese Yuan"
+      }
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=China"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "themeColor": "#DE2910"
+  },
+  {
+    "cca3": "KOR",
+    "cca2": "KR",
+    "name": {
+      "common": "South Korea"
+    },
+    "capital": [
+      "Seoul"
+    ],
+    "region": "Asia",
+    "population": 51744876,
+    "latlng": [
+      37.5665,
+      126.978
+    ],
+    "area": 100210,
+    "languages": {
+      "kor": "Korean"
+    },
+    "currencies": {
+      "KRW": {
+        "name": "South Korean Won"
+      }
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=South+Korea"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "themeColor": "#CD2E3A"
+  },
+  {
+    "cca3": "AUS",
+    "cca2": "AU",
+    "name": {
+      "common": "Australia"
+    },
+    "capital": [
+      "Canberra"
+    ],
+    "region": "Oceania",
+    "population": 26600000,
+    "latlng": [
+      -35.2809,
+      149.13
+    ],
+    "area": 7692024,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "AUD": {
+        "name": "Australian Dollar"
+      }
+    },
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Australia"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "themeColor": "#012169"
+  },
+  {
+    "cca3": "NZL",
+    "cca2": "NZ",
+    "name": {
+      "common": "New Zealand"
+    },
+    "capital": [
+      "Wellington"
+    ],
+    "region": "Oceania",
+    "population": 5223100,
+    "latlng": [
+      -41.2865,
+      174.7762
+    ],
+    "area": 270467,
+    "languages": {
+      "eng": "English",
+      "mri": "Māori"
+    },
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand Dollar"
+      }
+    },
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=New+Zealand"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/nz.png",
+    "themeColor": "#C8102E"
+  },
+  {
+    "cca3": "BRA",
+    "cca2": "BR",
+    "name": {
+      "common": "Brazil"
+    },
+    "capital": [
+      "Brasília"
+    ],
+    "region": "Americas",
+    "population": 203080756,
+    "latlng": [
+      -15.7939,
+      -47.8828
+    ],
+    "area": 8515767,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian Real"
+      }
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Brazil"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "themeColor": "#009C3B"
+  },
+  {
+    "cca3": "MEX",
+    "cca2": "MX",
+    "name": {
+      "common": "Mexico"
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "region": "Americas",
+    "population": 130262216,
+    "latlng": [
+      19.4326,
+      -99.1332
+    ],
+    "area": 1964375,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "MXN": {
+        "name": "Mexican Peso"
+      }
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Mexico"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "themeColor": "#006847"
+  },
+  {
+    "cca3": "ARG",
+    "cca2": "AR",
+    "name": {
+      "common": "Argentina"
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "region": "Americas",
+    "population": 46200000,
+    "latlng": [
+      -34.6037,
+      -58.3816
+    ],
+    "area": 2780400,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "ARS": {
+        "name": "Argentine Peso"
+      }
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Argentina"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "themeColor": "#74ACDF"
+  },
+  {
+    "cca3": "ZAF",
+    "cca2": "ZA",
+    "name": {
+      "common": "South Africa"
+    },
+    "capital": [
+      "Pretoria"
+    ],
+    "region": "Africa",
+    "population": 60400000,
+    "latlng": [
+      -25.7479,
+      28.2293
+    ],
+    "area": 1221037,
+    "languages": {
+      "eng": "English",
+      "afr": "Afrikaans"
+    },
+    "currencies": {
+      "ZAR": {
+        "name": "South African Rand"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=South+Africa"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "themeColor": "#007A4D"
+  },
+  {
+    "cca3": "EGY",
+    "cca2": "EG",
+    "name": {
+      "common": "Egypt"
+    },
+    "capital": [
+      "Cairo"
+    ],
+    "region": "Africa",
+    "population": 112716598,
+    "latlng": [
+      30.0444,
+      31.2357
+    ],
+    "area": 1002450,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian Pound"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Egypt"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "themeColor": "#CE1126"
+  },
+  {
+    "cca3": "NGA",
+    "cca2": "NG",
+    "name": {
+      "common": "Nigeria"
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "region": "Africa",
+    "population": 223804632,
+    "latlng": [
+      9.0765,
+      7.3986
+    ],
+    "area": 923768,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian Naira"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Nigeria"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ng.png",
+    "themeColor": "#008751"
+  },
+  {
+    "cca3": "KEN",
+    "cca2": "KE",
+    "name": {
+      "common": "Kenya"
+    },
+    "capital": [
+      "Nairobi"
+    ],
+    "region": "Africa",
+    "population": 55100000,
+    "latlng": [
+      -1.2921,
+      36.8219
+    ],
+    "area": 580367,
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "KES": {
+        "name": "Kenyan Shilling"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Kenya"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ke.png",
+    "themeColor": "#000000"
+  },
+  {
+    "cca3": "SAU",
+    "cca2": "SA",
+    "name": {
+      "common": "Saudi Arabia"
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "region": "Asia",
+    "population": 36900000,
+    "latlng": [
+      24.7136,
+      46.6753
+    ],
+    "area": 2149690,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "SAR": {
+        "name": "Saudi Riyal"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Saudi+Arabia"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "themeColor": "#006C35"
+  },
+  {
+    "cca3": "ARE",
+    "cca2": "AE",
+    "name": {
+      "common": "United Arab Emirates"
+    },
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "region": "Asia",
+    "population": 9440000,
+    "latlng": [
+      24.4539,
+      54.3773
+    ],
+    "area": 83600,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "AED": {
+        "name": "UAE Dirham"
+      }
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=United+Arab+Emirates"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ae.png",
+    "themeColor": "#00732F"
+  },
+  {
+    "cca3": "CHE",
+    "cca2": "CH",
+    "name": {
+      "common": "Switzerland"
+    },
+    "capital": [
+      "Bern"
+    ],
+    "region": "Europe",
+    "population": 8967000,
+    "latlng": [
+      46.948,
+      7.4474
+    ],
+    "area": 41284,
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ita": "Italian"
+    },
+    "currencies": {
+      "CHF": {
+        "name": "Swiss Franc"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Switzerland"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "themeColor": "#D52B1E"
+  },
+  {
+    "cca3": "NLD",
+    "cca2": "NL",
+    "name": {
+      "common": "Netherlands"
+    },
+    "capital": [
+      "Amsterdam"
+    ],
+    "region": "Europe",
+    "population": 17900000,
+    "latlng": [
+      52.3676,
+      4.9041
+    ],
+    "area": 41850,
+    "languages": {
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Netherlands"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "themeColor": "#AE1C28"
+  },
+  {
+    "cca3": "GRC",
+    "cca2": "GR",
+    "name": {
+      "common": "Greece"
+    },
+    "capital": [
+      "Athens"
+    ],
+    "region": "Europe",
+    "population": 10400000,
+    "latlng": [
+      37.9838,
+      23.7275
+    ],
+    "area": 131990,
+    "languages": {
+      "ell": "Greek"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Greece"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1603565816030-6b389eeb23cb?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "themeColor": "#0D5EAF"
+  },
+  {
+    "cca3": "SGP",
+    "cca2": "SG",
+    "name": {
+      "common": "Singapore"
+    },
+    "capital": [
+      "Singapore"
+    ],
+    "region": "Asia",
+    "population": 5917600,
+    "latlng": [
+      1.3521,
+      103.8198
+    ],
+    "area": 710,
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "currencies": {
+      "SGD": {
+        "name": "Singapore Dollar"
+      }
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Singapore"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/sg.png",
+    "themeColor": "#EF3340"
+  },
+  {
+    "cca3": "THA",
+    "cca2": "TH",
+    "name": {
+      "common": "Thailand"
+    },
+    "capital": [
+      "Bangkok"
+    ],
+    "region": "Asia",
+    "population": 71600000,
+    "latlng": [
+      13.7563,
+      100.5018
+    ],
+    "area": 513120,
+    "languages": {
+      "tha": "Thai"
+    },
+    "currencies": {
+      "THB": {
+        "name": "Thai Baht"
+      }
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Thailand"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "themeColor": "#A51931"
+  },
+  {
+    "cca3": "TUR",
+    "cca2": "TR",
+    "name": {
+      "common": "Turkey"
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "region": "Asia",
+    "population": 85300000,
+    "latlng": [
+      39.9334,
+      32.8597
+    ],
+    "area": 783562,
+    "languages": {
+      "tur": "Turkish"
+    },
+    "currencies": {
+      "TRY": {
+        "name": "Turkish Lira"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Turkey"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "themeColor": "#E30A17"
+  },
+  {
+    "cca3": "NOR",
+    "cca2": "NO",
+    "name": {
+      "common": "Norway"
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "region": "Europe",
+    "population": 5550000,
+    "latlng": [
+      59.9139,
+      10.7522
+    ],
+    "area": 385207,
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "currencies": {
+      "NOK": {
+        "name": "Norwegian Krone"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Norway"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/no.png",
+    "themeColor": "#BA0C2F"
+  },
+  {
+    "cca3": "SWE",
+    "cca2": "SE",
+    "name": {
+      "common": "Sweden"
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "region": "Europe",
+    "population": 10600000,
+    "latlng": [
+      59.3293,
+      18.0686
+    ],
+    "area": 450295,
+    "languages": {
+      "swe": "Swedish"
+    },
+    "currencies": {
+      "SEK": {
+        "name": "Swedish Krona"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Sweden"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "themeColor": "#006AA7"
+  },
+  {
+    "cca3": "DNK",
+    "cca2": "DK",
+    "name": {
+      "common": "Denmark"
+    },
+    "capital": [
+      "Copenhagen"
+    ],
+    "region": "Europe",
+    "population": 6000000,
+    "latlng": [
+      55.6761,
+      12.5683
+    ],
+    "area": 43094,
+    "languages": {
+      "dan": "Danish"
+    },
+    "currencies": {
+      "DKK": {
+        "name": "Danish Krone"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Denmark"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/dk.png",
+    "themeColor": "#C8102E"
+  },
+  {
+    "cca3": "ISL",
+    "cca2": "IS",
+    "name": {
+      "common": "Iceland"
+    },
+    "capital": [
+      "Reykjavik"
+    ],
+    "region": "Europe",
+    "population": 390000,
+    "latlng": [
+      64.1466,
+      -21.9426
+    ],
+    "area": 103000,
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "currencies": {
+      "ISK": {
+        "name": "Icelandic Króna"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Iceland"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/is.png",
+    "themeColor": "#02529C"
+  },
+  {
+    "cca3": "IRL",
+    "cca2": "IE",
+    "name": {
+      "common": "Ireland"
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "region": "Europe",
+    "population": 5300000,
+    "latlng": [
+      53.3498,
+      -6.2603
+    ],
+    "area": 70273,
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Ireland"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1500042600524-37ecb686c775?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ie.png",
+    "themeColor": "#169B62"
+  },
+  {
+    "cca3": "AUT",
+    "cca2": "AT",
+    "name": {
+      "common": "Austria"
+    },
+    "capital": [
+      "Vienna"
+    ],
+    "region": "Europe",
+    "population": 9200000,
+    "latlng": [
+      48.2082,
+      16.3738
+    ],
+    "area": 83871,
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Austria"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/at.png",
+    "themeColor": "#ED2939"
+  },
+  {
+    "cca3": "CZE",
+    "cca2": "CZ",
+    "name": {
+      "common": "Czechia"
+    },
+    "capital": [
+      "Prague"
+    ],
+    "region": "Europe",
+    "population": 10900000,
+    "latlng": [
+      50.0755,
+      14.4378
+    ],
+    "area": 78871,
+    "languages": {
+      "ces": "Czech"
+    },
+    "currencies": {
+      "CZK": {
+        "name": "Czech Koruna"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Czechia"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/cz.png",
+    "themeColor": "#11457E"
+  },
+  {
+    "cca3": "POL",
+    "cca2": "PL",
+    "name": {
+      "common": "Poland"
+    },
+    "capital": [
+      "Warsaw"
+    ],
+    "region": "Europe",
+    "population": 37700000,
+    "latlng": [
+      52.2297,
+      21.0122
+    ],
+    "area": 312696,
+    "languages": {
+      "pol": "Polish"
+    },
+    "currencies": {
+      "PLN": {
+        "name": "Polish Złoty"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Poland"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1519197924294-4ba991a11128?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/pl.png",
+    "themeColor": "#DC143C"
+  },
+  {
+    "cca3": "HUN",
+    "cca2": "HU",
+    "name": {
+      "common": "Hungary"
+    },
+    "capital": [
+      "Budapest"
+    ],
+    "region": "Europe",
+    "population": 9500000,
+    "latlng": [
+      47.4979,
+      19.0402
+    ],
+    "area": 93028,
+    "languages": {
+      "hun": "Hungarian"
+    },
+    "currencies": {
+      "HUF": {
+        "name": "Hungarian Forint"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Hungary"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/hu.png",
+    "themeColor": "#CD2A3E"
+  },
+  {
+    "cca3": "MAR",
+    "cca2": "MA",
+    "name": {
+      "common": "Morocco"
+    },
+    "capital": [
+      "Rabat"
+    ],
+    "region": "Africa",
+    "population": 37800000,
+    "latlng": [
+      34.0209,
+      -6.8416
+    ],
+    "area": 446550,
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan Dirham"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Morocco"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ma.png",
+    "themeColor": "#C1272D"
+  },
+  {
+    "cca3": "TZA",
+    "cca2": "TZ",
+    "name": {
+      "common": "Tanzania"
+    },
+    "capital": [
+      "Dodoma"
+    ],
+    "region": "Africa",
+    "population": 69400000,
+    "latlng": [
+      -6.163,
+      35.7516
+    ],
+    "area": 945087,
+    "languages": {
+      "swa": "Swahili",
+      "eng": "English"
+    },
+    "currencies": {
+      "TZS": {
+        "name": "Tanzanian Shilling"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Tanzania"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/tz.png",
+    "themeColor": "#1EB53A"
+  },
+  {
+    "cca3": "PER",
+    "cca2": "PE",
+    "name": {
+      "common": "Peru"
+    },
+    "capital": [
+      "Lima"
+    ],
+    "region": "Americas",
+    "population": 34200000,
+    "latlng": [
+      -12.0464,
+      -77.0428
+    ],
+    "area": 1285216,
+    "languages": {
+      "spa": "Spanish",
+      "que": "Quechua"
+    },
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian Sol"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Peru"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "themeColor": "#D91023"
+  },
+  {
+    "cca3": "CHL",
+    "cca2": "CL",
+    "name": {
+      "common": "Chile"
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "region": "Americas",
+    "population": 19700000,
+    "latlng": [
+      -33.4489,
+      -70.6693
+    ],
+    "area": 756102,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CLP": {
+        "name": "Chilean Peso"
+      }
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Chile"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "themeColor": "#D52B1E"
+  },
+  {
+    "cca3": "VNM",
+    "cca2": "VN",
+    "name": {
+      "common": "Vietnam"
+    },
+    "capital": [
+      "Hanoi"
+    ],
+    "region": "Asia",
+    "population": 100300000,
+    "latlng": [
+      21.0285,
+      105.8542
+    ],
+    "area": 331212,
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese Dong"
+      }
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Vietnam"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "themeColor": "#DA251D"
+  },
+  {
+    "cca3": "PHL",
+    "cca2": "PH",
+    "name": {
+      "common": "Philippines"
+    },
+    "capital": [
+      "Manila"
+    ],
+    "region": "Asia",
+    "population": 114200000,
+    "latlng": [
+      14.5995,
+      120.9842
+    ],
+    "area": 300000,
+    "languages": {
+      "fil": "Filipino",
+      "eng": "English"
+    },
+    "currencies": {
+      "PHP": {
+        "name": "Philippine Peso"
+      }
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "maps": {
+      "googleMaps": "https://maps.google.com/?q=Philippines"
+    },
+    "cardImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?auto=format&fit=crop&w=800&q=80",
+    "flag": "https://flagcdn.com/w320/ph.png",
+    "themeColor": "#0038A8"
+  }
+]
