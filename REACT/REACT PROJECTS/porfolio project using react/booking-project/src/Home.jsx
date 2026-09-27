@@ -48,7 +48,7 @@ function Home() {
             <i className="bi bi-github"></i>
           </a>
 
-          <a href="#">
+          <a href="https://www.linkedin.com/in/saravana-kumar-882298398" target="_blank" rel="noopener noreferrer">
             <i className="bi bi-linkedin"></i>
           </a>
 
