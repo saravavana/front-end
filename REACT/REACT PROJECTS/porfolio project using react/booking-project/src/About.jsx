@@ -49,7 +49,7 @@ function About() {
 
               <div className="info-card">
                 <h3><i class="bi bi-folder-fill"></i> Projects</h3>
-                <p>4+ Completed</p>
+                <p>6+ Completed</p>
               </div>
 
               <div className="info-card">
