@@ -1,6 +1,6 @@
 import { TypeAnimation } from "react-type-animation";
-import "./home.css";
-import home from "./assets/home id.jpg";
+import "./Home.css";
+import home from "./assets/home id.jpeg";
 
 function Home() {
   return (
@@ -52,7 +52,7 @@ function Home() {
             <i className="bi bi-linkedin"></i>
           </a>
 
-          <a href="#">
+          <a href="/Contact">
             <i className="bi bi-envelope-fill"></i>
           </a>
 

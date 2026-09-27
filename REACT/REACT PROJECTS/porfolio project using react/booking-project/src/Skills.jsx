@@ -1,12 +1,12 @@
-import "./skills.css";
+import "./Skills.css";
+
 import html from './assets/html.png';
 import css from './assets/css.png';
 import js from './assets/js.png';
 import bootstrap from './assets/bootstrap.png';
 import react from './assets/react.png';
-import sql from "./assets/sql.png";
-import java from "./assets/java.png";
 import nodejs from "./assets/nodejs.png";
+import Express from "./assets/express.png";
 import Git from "./assets/git.png";
 function Skills() {
   return (
@@ -48,7 +48,7 @@ function Skills() {
           <div className="skill-card">
             <img src={react} alt="React" />
             <h2>React</h2>
-            <p>Responsive websites with Bootstrap components.</p>
+            <p>Component-based UI development and state management.</p>
           </div>
           <div className="skill-card">
             <img src={Git} alt="Git" />
@@ -56,15 +56,9 @@ function Skills() {
             <p>Version control and collaborative development.</p>
           </div>
           <div className="skill-card">
-            <img src={sql} alt="SQL" />
-            <h2>SQL</h2>
-            <p>Database queries and data management.</p>
-          </div>
-
-          <div className="skill-card">
-            <img src={java} alt="Java" />
-            <h2>Java</h2>
-            <p>Object-oriented programming and problem solving.</p>
+            <img src={Express} alt="Express.js" />
+            <h2>Express.js</h2>
+            <p>Backend development and REST API creation.</p>
           </div>
 
           <div className="skill-card">
@@ -80,4 +74,4 @@ function Skills() {
   )
 }
 
-export default Skills
+export default Skills;
