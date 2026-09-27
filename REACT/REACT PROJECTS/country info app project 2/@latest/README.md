@@ -2,6 +2,9 @@
 
 A React application that displays country information using an API.
 
+## 🚀 Live Demo
+
+https://country-info-application-kappa.vercel.app/
 ## Features
 
 - Search countries
