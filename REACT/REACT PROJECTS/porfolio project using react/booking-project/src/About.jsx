@@ -1,5 +1,5 @@
 import './About.css';
-import hero from './assets/about.jpg';
+import hero from './assets/about.jpeg';
 function About() {
   return (
     <>
