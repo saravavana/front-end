@@ -34,7 +34,7 @@ function Home() {
         <div id="buttons">
 
           <button id="one">
-            <a href="/Contact">Hire me</a>
+            <a href="/Contact" style={{ textDecoration: 'none', color: 'inherit' }}>Hire me</a>
           </button>
 
           <button id="two">
