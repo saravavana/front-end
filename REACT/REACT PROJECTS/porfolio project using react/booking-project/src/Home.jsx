@@ -1,6 +1,7 @@
 import { TypeAnimation } from "react-type-animation";
 import "./Home.css";
 import home from "./assets/home id.jpeg";
+import resume from "./assets/SaravanakumarFrontEnd-Resume.pdf";
 
 function Home() {
   return (
@@ -33,11 +34,13 @@ function Home() {
         <div id="buttons">
 
           <button id="one">
-            Hire Me
+            <a href="/Contact">Hire me</a>
           </button>
 
           <button id="two">
-            Download CV
+            <a href={resume} download="SaravanakumarFrontEnd-Resume.pdf" style={{ textDecoration: 'none', color: 'inherit' }}>
+              Download CV
+            </a>
           </button>
 
         </div>
